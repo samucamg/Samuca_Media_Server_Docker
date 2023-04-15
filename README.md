@@ -1,7 +1,7 @@
-# Docker Media Server
-Install Docker, Docker-Compose, Nginx Proxy Manager, Portainer, Plex, Emby, Jellyfin and Watchtower on Linux.
+# Samuca Media Server Docker
+Este script instala Docker, Docker-Compose, Nginx Proxy Manager, Portainer, Plex, Emby, Jellyfin e Watchtower no Linux.
 
-# Instructions:
+# Instruções:
 
 **The following instructions were created using Ubuntu, assumes you have the proper ports exposed, and logged in as root or a user with sudo privileges.**
 
